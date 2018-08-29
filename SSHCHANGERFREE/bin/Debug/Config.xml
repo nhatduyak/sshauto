@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+ <PathFile Value="http://duy.somee.com/ssh/M254.txt"/> 
+ <Port Value="1080"/> 
+</Config>
